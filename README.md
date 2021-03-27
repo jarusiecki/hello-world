@@ -1,3 +1,3 @@
 # hello-world
-this is a test repo \n
+this is a test repo \
 these are some changes
